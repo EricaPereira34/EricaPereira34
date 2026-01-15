@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou a Érica Pereira
+# Érica Pereira
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre – FATEC)  
-💻 Desenvolvedora Full Stack em formação, com foco em back-end  
+💻 Desenvolvedora em formação  
 📍 Itu – SP
 
 ---
