@@ -6,15 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricaPereira34&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaPereira34&layout=compact" />
-</p>
-
-
-
 ## 🚀 Sobre mim
 Sou estudante de tecnologia com interesse em desenvolvimento de aplicações completas,
 atuando principalmente no back-end. Atualmente estudo e pratico programação com foco em
