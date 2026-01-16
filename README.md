@@ -38,5 +38,5 @@ Previsão de conclusão: 12/2026
 
 ---
 
-⭐ Em breve, projetos acadêmicos e pessoais estarão disponíveis neste perfil.HAHAHAH
+⭐ Em breve, projetos acadêmicos e pessoais estarão disponíveis neste perfil.
 
